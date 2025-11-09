@@ -1,0 +1,222 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Euronews.pt" group-title="PT p3",EuroNews
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164859
+
+#EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="PT p3",CMTV
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/78441
+
+#EXTINF:-1 tvg-id="CNN.pt" group-title="PT p3",CNN Portugal
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164802
+
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" group-title="PT p3",RTP 1
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164792
+
+#EXTINF:-1 tvg-id="TVI.HD.pt" group-title="PT p3",TVI
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/78526
+
+#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" group-title="PT p3",tv cine action
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164809
+
+#EXTINF:-1 tvg-id="NOS.Studios.HD.pt" group-title="PT p3",nos studios
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164811
+
+#EXTINF:-1 tvg-id="Canal.Hollywood.HD.pt" group-title="PT p3",hollywood
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164813
+
+#EXTINF:-1 tvg-id="AXN.White.HD.pt" group-title="PT p3",axn white
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164815
+
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" group-title="PT p3",axn movies
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164818
+
+#EXTINF:-1 tvg-id="Syfy.HD.pt" group-title="PT p3",Syfy
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164821
+
+#EXTINF:-1 tvg-id="Globo.HD.pt" group-title="PT p3",globo
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164824
+
+#EXTINF:-1 group-title="PT p3",clubbing
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164850
+
+#EXTINF:-1 tvg-id="ZAP.Viva.HD.pt" group-title="PT p3",Zap Viva Internacional
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164853
+
+#EXTINF:-1 group-title="PT p3",TPA NOTICIAS
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164855
+
+#EXTINF:-1 group-title="PT p3",TVC Cabo Verde
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164858
+
+#EXTINF:-1 tvg-id="TVI.Reality.HD.pt" group-title="PT p3",TVI Reality
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164861
+
+#EXTINF:-1 tvg-id="tvi.reality.pt" group-title="PT p3",TVI Reality
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164861
+
+#EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="PT p3",BENFICA TV
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/136726
+
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="PT p3",SPORT TV
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167742
+
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="PT p3",SPORT TV 2
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167743
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="PT p3",SPORT TV 3
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167744
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="PT p3",SPORT TV 4
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167745
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="PT p3",DAZN 1 sports
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35264
+
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="PT p3",DAZN 3 sports
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167748
+
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="PT p3",DAZN 4 sports
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167749
+
+#EXTINF:-1 tvg-id="DAZN.5.pt" group-title="PT p3",DAZN 5 sports
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167750
+
+#EXTINF:-1 group-title="PT p3",abc news wjla
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167753
+
+#EXTINF:-1 group-title="PT p3",Sky Sports +
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35238
+
+#EXTINF:-1 group-title="PT p3",Sky Sports Golf
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35240
+
+#EXTINF:-1 "Sky.News.pt" group-title="PT p3",Sky Sports News
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35241
+
+#EXTINF:-1 group-title="PT p3",Sky Atlantic
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35243
+
+#EXTINF:-1 group-title="PT p3",Sky Sports F1
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35244
+
+#EXTINF:-1 group-title="PT p3",Sky Cinema Syfy Horror
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35248
+
+#EXTINF:-1 group-title="PT p3",Sky Sports Action
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35249
+
+#EXTINF:-1 group-title="PT p3",Sky Cinema Drama
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35251
+
+#EXTINF:-1 group-title="PT p3",Sky Cinema Thriller
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35252
+
+#EXTINF:-1 group-title="PT p3",Sky Cinema Comedy
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35253
+
+#EXTINF:-1 group-title="PT p3",Sky Cinema Action
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35254
+
+#EXTINF:-1 group-title="PT p3",Sky Cinema Premiere
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/35256
+
+#EXTINF:-1 group-title="PT p3",amc br
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164938
+
+#EXTINF:-1 group-title="PT p3",globoplay br
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164943
+
+#EXTINF:-1 group-title="PT p3",globo minas br
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164944
+
+#EXTINF:-1 group-title="PT p3",globo news5br
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164944
+
+#EXTINF:-1 group-title="PT p3",espn br
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164948
+
+#EXTINF:-1 group-title="PT p3",hbo br
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164950
+
+#EXTINF:-1 group-title="PT p3",tnt series br
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164958
+
+#EXTINF:-1 group-title="PT p3",infowars.com
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/78578
+
+#EXTINF:-1 group-title="PT p3",fanduel sports network
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/78599
+
+#EXTINF:-1 group-title="PT p3",CBS (WDEF) Chattanooga
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/136739
+
+#EXTINF:-1 group-title="PT p3",THE NATIONAL NEWS DESK
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/136740
+
+#EXTINF:-1 group-title="PT p3",ABC NEWS CHANNEL 9
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/136741
+
+#EXTINF:-1 group-title="PT p3",EL NUEVE
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164869
+
+#EXTINF:-1 group-title="PT p3",VIVO
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164870
+
+#EXTINF:-1 group-title="PT p3",TN
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164873
+
+#EXTINF:-1 group-title="PT p3",Cronica
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164875
+
+#EXTINF:-1 group-title="PT p3",C5N
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164876
+
+#EXTINF:-1 group-title="PT p3",Encuentro
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164878
+
+#EXTINF:-1 group-title="PT p3",Garage TV
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164879
+
+#EXTINF:-1 group-title="PT p3",Garage TV 2
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164880
+
+#EXTINF:-1 group-title="PT p3",AMERICA
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164881
+
+#EXTINF:-1 group-title="PT p3",mega Chile
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164883
+
+#EXTINF:-1 group-title="PT p3",Chilevision
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164884
+
+#EXTINF:-1 group-title="PT p3",13
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164885
+
+#EXTINF:-1 group-title="PT p3",TVN
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164888
+
+#EXTINF:-1 group-title="PT p3",CNN Chile
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164892
+
+#EXTINF:-1 group-title="PT p3",Canal 10 Saeta
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164917
+
+#EXTINF:-1 group-title="PT p3",Canal 12 Melo
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164921
+
+#EXTINF:-1 group-title="PT p3",a+v
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164922
+
+#EXTINF:-1 group-title="PT p3",4
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164923
+
+#EXTINF:-1 group-title="PT p3",La tele
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164927
+
+#EXTINF:-1 group-title="PT p3",VIVO
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164931
+
+#EXTINF:-1 group-title="PT p3",news 12
+http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167741
+
+
