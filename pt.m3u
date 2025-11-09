@@ -145,3 +145,13 @@ http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164927.ts
 http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/164931.ts
 #EXTINF:-1 group-title="PT p3",news 12
 http://cord-cutter.net:8080/CharlesCam/6MTqbMdEN6/167741.ts
+#EXTINF:-1,ATV Kinoman HD
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1,Nickelodeon
+http://canal-pro.xyz:8080/3853924976/ytVX7sabx657/265486
+#EXTINF:-1,Nicktoons
+http://canal-pro.xyz:8080/3853924976/ytVX7sabx657/265487
+#EXTINF:-1,SONGTV Armenia (720p)
+http://canal-pro.xyz:8080/3853924976/ytVX7sabx657/265488
+#EXTINF:-1,АTV ԱԹԻՎԻ (480p) [Not 24/7]
+http://ott-cdn.ucom.am/s8/index.m3u8
