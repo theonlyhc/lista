@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Euronews.pt" group-title="PT p3",EuroNews
+http://fortv.cc:8080/PHn1bv/649364/164859
+#EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="PT p3",CMTV
+http://fortv.cc:8080/PHn1bv/649364/78441
+#EXTINF:-1 tvg-id="CNN.pt" group-title="PT p3",CNN Portugal
+http://fortv.cc:8080/PHn1bv/649364/164802
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" group-title="PT p3",RTP 1
+http://fortv.cc:8080/PHn1bv/649364/164792
+#EXTINF:-1 tvg-id="TVI.HD.pt" group-title="PT p3",TVI
+http://fortv.cc:8080/PHn1bv/649364/78526
+#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" group-title="PT p3",tv cine action
+http://fortv.cc:8080/PHn1bv/649364/164809
+#EXTINF:-1 tvg-id="NOS.Studios.HD.pt" group-title="PT p3",nos studios
+http://fortv.cc:8080/PHn1bv/649364/164811
+#EXTINF:-1 tvg-id="Canal.Hollywood.HD.pt" group-title="PT p3",hollywood
+http://fortv.cc:8080/PHn1bv/649364/164813
+#EXTINF:-1 tvg-id="AXN.White.HD.pt" group-title="PT p3",axn white
+http://fortv.cc:8080/PHn1bv/649364/164815
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" group-title="PT p3",axn movies
+http://fortv.cc:8080/PHn1bv/649364/164818
+#EXTINF:-1 tvg-id="Syfy.HD.pt" group-title="PT p3",Syfy
+http://fortv.cc:8080/PHn1bv/649364/164821
+#EXTINF:-1 tvg-id="Globo.HD.pt" group-title="PT p3",globo
+http://fortv.cc:8080/PHn1bv/649364/164824
+#EXTINF:-1 group-title="PT p3",clubbing
+http://fortv.cc:8080/PHn1bv/649364/164850
+#EXTINF:-1 tvg-id="ZAP.Viva.HD.pt" group-title="PT p3",Zap Viva Internacional
+http://fortv.cc:8080/PHn1bv/649364/164853
+#EXTINF:-1 group-title="PT p3",TPA NOTICIAS
+http://fortv.cc:8080/PHn1bv/649364/164855
+#EXTINF:-1 group-title="PT p3",TVC Cabo Verde
+http://fortv.cc:8080/PHn1bv/649364/164858
+#EXTINF:-1 tvg-id="TVI.Reality.HD.pt" group-title="PT p3",TVI Reality
+http://fortv.cc:8080/PHn1bv/649364/164861
+#EXTINF:-1 tvg-id="tvi.reality.pt" group-title="PT p3",TVI Reality
+http://fortv.cc:8080/PHn1bv/649364/164861
+#EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="PT p3",BENFICA TV
+http://fortv.cc:8080/PHn1bv/649364/136726
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="PT p3",SPORT TV
+http://fortv.cc:8080/PHn1bv/649364/167742
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="PT p3",SPORT TV 2
+http://fortv.cc:8080/PHn1bv/649364/167743
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="PT p3",SPORT TV 3
+http://fortv.cc:8080/PHn1bv/649364/167744
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="PT p3",SPORT TV 4
+http://fortv.cc:8080/PHn1bv/649364/167745
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="PT p3",DAZN 1 sports
+http://fortv.cc:8080/PHn1bv/649364/35264
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="PT p3",DAZN 3 sports
+http://fortv.cc:8080/PHn1bv/649364/167748
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="PT p3",DAZN 4 sports
+http://fortv.cc:8080/PHn1bv/649364/167749
+#EXTINF:-1 tvg-id="DAZN.5.pt" group-title="PT p3",DAZN 5 sports
+http://fortv.cc:8080/PHn1bv/649364/167750
+#EXTINF:-1 group-title="PT p3",abc news wjla
+http://fortv.cc:8080/PHn1bv/649364/167753
+#EXTINF:-1 group-title="PT p3",Sky Sports +
+http://fortv.cc:8080/PHn1bv/649364/35238
+#EXTINF:-1 group-title="PT p3",Sky Sports Golf
+http://fortv.cc:8080/PHn1bv/649364/35240
+#EXTINF:-1 "Sky.News.pt" group-title="PT p3",Sky Sports News
+http://fortv.cc:8080/PHn1bv/649364/35241
+#EXTINF:-1 group-title="PT p3",Sky Atlantic
+http://fortv.cc:8080/PHn1bv/649364/35243
+#EXTINF:-1 group-title="PT p3",Sky Sports F1
+http://fortv.cc:8080/PHn1bv/649364/35244
+#EXTINF:-1 group-title="PT p3",Sky Cinema Syfy Horror
+http://fortv.cc:8080/PHn1bv/649364/35248
+#EXTINF:-1 group-title="PT p3",Sky Sports Action
+http://fortv.cc:8080/PHn1bv/649364/35249
+#EXTINF:-1 group-title="PT p3",Sky Cinema Drama
+http://fortv.cc:8080/PHn1bv/649364/35251
+#EXTINF:-1 group-title="PT p3",Sky Cinema Thriller
+http://fortv.cc:8080/PHn1bv/649364/35252
+#EXTINF:-1 group-title="PT p3",Sky Cinema Comedy
+http://fortv.cc:8080/PHn1bv/649364/35253
+#EXTINF:-1 group-title="PT p3",Sky Cinema Action
+http://fortv.cc:8080/PHn1bv/649364/35254
+#EXTINF:-1 group-title="PT p3",Sky Cinema Premiere
+http://fortv.cc:8080/PHn1bv/649364/35256
+#EXTINF:-1 group-title="PT p3",amc br
+http://fortv.cc:8080/PHn1bv/649364/164938
+#EXTINF:-1 group-title="PT p3",globoplay br
+http://fortv.cc:8080/PHn1bv/649364/164943
+#EXTINF:-1 group-title="PT p3",globo minas br
+http://fortv.cc:8080/PHn1bv/649364/164944
+#EXTINF:-1 group-title="PT p3",globo news5br
+http://fortv.cc:8080/PHn1bv/649364/164944
+#EXTINF:-1 group-title="PT p3",espn br
+http://fortv.cc:8080/PHn1bv/649364/164948
+#EXTINF:-1 group-title="PT p3",hbo br
+http://fortv.cc:8080/PHn1bv/649364/164950
+#EXTINF:-1 group-title="PT p3",tnt series br
+http://fortv.cc:8080/PHn1bv/649364/164958
+#EXTINF:-1 group-title="PT p3",infowars.com
+http://fortv.cc:8080/PHn1bv/649364/78578
+#EXTINF:-1 group-title="PT p3",fanduel sports network
+http://fortv.cc:8080/PHn1bv/649364/78599
+#EXTINF:-1 group-title="PT p3",CBS (WDEF) Chattanooga
+http://fortv.cc:8080/PHn1bv/649364/136739
+#EXTINF:-1 group-title="PT p3",THE NATIONAL NEWS DESK
+http://fortv.cc:8080/PHn1bv/649364/136740
+#EXTINF:-1 group-title="PT p3",ABC NEWS CHANNEL 9
+http://fortv.cc:8080/PHn1bv/649364/136741
+#EXTINF:-1 group-title="PT p3",EL NUEVE
+http://fortv.cc:8080/PHn1bv/649364/164869
+#EXTINF:-1 group-title="PT p3",VIVO
+http://fortv.cc:8080/PHn1bv/649364/164870
+#EXTINF:-1 group-title="PT p3",TN
+http://fortv.cc:8080/PHn1bv/649364/164873
+#EXTINF:-1 group-title="PT p3",Cronica
+http://fortv.cc:8080/PHn1bv/649364/164875
+#EXTINF:-1 group-title="PT p3",C5N
+http://fortv.cc:8080/PHn1bv/649364/164876
+#EXTINF:-1 group-title="PT p3",Encuentro
+http://fortv.cc:8080/PHn1bv/649364/164878
+#EXTINF:-1 group-title="PT p3",Garage TV
+http://fortv.cc:8080/PHn1bv/649364/164879
+#EXTINF:-1 group-title="PT p3",Garage TV 2
+http://fortv.cc:8080/PHn1bv/649364/164880
+#EXTINF:-1 group-title="PT p3",AMERICA
+http://fortv.cc:8080/PHn1bv/649364/164881
+#EXTINF:-1 group-title="PT p3",mega Chile
+http://fortv.cc:8080/PHn1bv/649364/164883
+#EXTINF:-1 group-title="PT p3",Chilevision
+http://fortv.cc:8080/PHn1bv/649364/164884
+#EXTINF:-1 group-title="PT p3",13
+http://fortv.cc:8080/PHn1bv/649364/164885
+#EXTINF:-1 group-title="PT p3",TVN
+http://fortv.cc:8080/PHn1bv/649364/164888
+#EXTINF:-1 group-title="PT p3",CNN Chile
+http://fortv.cc:8080/PHn1bv/649364/164892
+#EXTINF:-1 group-title="PT p3",Canal 10 Saeta
+http://fortv.cc:8080/PHn1bv/649364/164917
+#EXTINF:-1 group-title="PT p3",Canal 12 Melo
+http://fortv.cc:8080/PHn1bv/649364/164921
+#EXTINF:-1 group-title="PT p3",a+v
+http://fortv.cc:8080/PHn1bv/649364/164922
+#EXTINF:-1 group-title="PT p3",4
+http://fortv.cc:8080/PHn1bv/649364/164923
+#EXTINF:-1 group-title="PT p3",La tele
+http://fortv.cc:8080/PHn1bv/649364/164927
+#EXTINF:-1 group-title="PT p3",VIVO
+http://fortv.cc:8080/PHn1bv/649364/164931
+#EXTINF:-1 group-title="PT p3",news 12
+http://fortv.cc:8080/PHn1bv/649364/167741
+#EXTINF:-1,ATV Kinoman HD
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1,Nickelodeon
+http://canal-pro.xyz:8080/3853924976/ytVX7sabx657/265486
+#EXTINF:-1,Nicktoons
+http://canal-pro.xyz:8080/3853924976/ytVX7sabx657/265487
+#EXTINF:-1,SONGTV Armenia (720p)
+http://canal-pro.xyz:8080/3853924976/ytVX7sabx657/265488
+#EXTINF:-1,АTV ԱԹԻՎԻ (480p) [Not 24/7]
+http://ott-cdn.ucom.am/s8/index.m3u8
